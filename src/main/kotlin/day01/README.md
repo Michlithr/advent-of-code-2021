@@ -83,5 +83,5 @@ In this example, there are 5 sums that are larger than the previous sum.
 Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum?
 
 # Launch
-1. The simplest way to run it is compilation and running it via IntelliJ. You should pass a filepath as a parameter for the app.
+1. The simplest way to run it is compilation and running it via IntelliJ. You have to uncomment a day one runner in Main.kt file.
 2. You may also use command-line compiler. Steps for that are available at: [kotlinlang.org](https://kotlinlang.org/docs/command-line.html)
